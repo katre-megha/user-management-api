@@ -30,7 +30,7 @@ A CRUD Application in React.js
 Clone the project
 
 ```bash
-  git clone https://github.com/sreeshilck/CRUD-user-management-react
+  git clone https://github.com/katre-megha/user-management-api
 ```
 
 Go to the project client directory
